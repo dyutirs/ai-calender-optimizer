@@ -1,0 +1,12 @@
+# Server configuration
+server.port=8080
+
+# OpenAI API configuration
+openai.api.key=YOUR_API_KEY_HERE
+
+# Google OAuth configuration
+google.client.credentials-file-path=credentials.json
+google.oauth.callback.uri=http://localhost:8080/oauth2callback
+
+# Logging
+logging.level.org.studyeasy=DEBUG
