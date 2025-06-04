@@ -82,10 +82,6 @@ The application will be available at http://localhost:8080
 - API keys should be kept confidential and not committed to version control
 - For production use, implement proper user authentication and secure token storage
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - OpenAI for providing the GPT models
